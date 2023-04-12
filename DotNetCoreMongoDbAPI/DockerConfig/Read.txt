@@ -1,0 +1,14 @@
+Place publish files in publishfolder and ran the dockerfile command through following command
+
+
+
+docker build -t myapp .
+
+docker images
+
+docker ps
+
+docker run -d -p 4896:80 myapp
+ 
+
+docker ps
