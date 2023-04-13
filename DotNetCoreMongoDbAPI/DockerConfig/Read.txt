@@ -12,3 +12,7 @@ docker run -d -p 4896:80 myapp
  
 
 docker ps
+
+
+
+"docker run -d -p 4869:80 anandprakashdubey/dotnetcoremongodbapi"
